@@ -37,7 +37,7 @@ Editor: [https://htmlpen.net](https://codepen.io/Marshjek/pen/KQZVBQ)
 - Orden jerárquico del contenido.
 
 **Recurso audiovisual**  
-Video: https://youtu.be/link2  
+Video: https://youtu.be/0MQ6oBm2TCA
 
 **Entorno de práctica**  
 [https://htmlpen.net](https://codepen.io/Marshjek/pen/KQZVBQ)
@@ -115,9 +115,9 @@ Las siguientes informaciones están vinculadas con cada sección del curso:
 
 **Equipo responsable**
 - Avalos Córdova, Diego Andrés  
-- [Nombre 2]  
+- Cárdenas Huaman, Mathias Andree 
 - [Nombre 3]  
 - [Nombre 4]
 
-**Fecha de presentación:** [Indicar fecha]
+**Fecha de presentación:** 16/11/2025
 
