@@ -1,4 +1,4 @@
-# Programación Web – Módulo Fundamental
+# 🌐 Programación Web – Módulo Fundamental
 
 ## 1. Introducción
 Este documento corresponde al material oficial del curso **Programación Web – Fundamentals**, diseñado como una guía de aprendizaje rápido sobre la creación de páginas web utilizando **HTML** y **CSS**.  
