@@ -49,7 +49,7 @@ No requiere instalaciones: todo se realiza usando **HTML Pen**, un editor online
 
 ### **Lección 4: Introducción a CSS (13 min)**
 - **Descripción:** Primeros pasos con CSS: colores, fuentes, tamaños, clases y selectores.
-- **Video:** https://youtu.be/link4
+- **Video:** https://youtu.be/gBnFrPrnhUY
 - **Conclusiones clave:**
   - Sintaxis básica: `selector { propiedad: valor; }`
   - Estilos comunes: `color`, `background-color`, `font-size`, `text-align`
