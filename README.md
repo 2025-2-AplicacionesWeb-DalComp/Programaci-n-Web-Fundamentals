@@ -26,7 +26,7 @@ La capacitación está orientada a estudiantes sin experiencia previa y se desar
 Video: https://youtu.be/link1  
 
 **Práctica asociada**  
-Editor: https://htmlpen.net
+Editor: [https://htmlpen.net](https://codepen.io/Marshjek/pen/KQZVBQ)
 
 ---
 
@@ -40,7 +40,7 @@ Editor: https://htmlpen.net
 Video: https://youtu.be/link2  
 
 **Entorno de práctica**  
-https://htmlpen.net
+[https://htmlpen.net](https://codepen.io/Marshjek/pen/KQZVBQ)
 
 ---
 
@@ -55,7 +55,7 @@ https://htmlpen.net
 Video: https://youtu.be/link3
 
 **Práctica**  
-https://htmlpen.net
+[https://htmlpen.net](https://codepen.io/Marshjek/pen/KQZVBQ)
 
 ---
 
@@ -70,7 +70,7 @@ https://htmlpen.net
 Video: https://youtu.be/gBnFrPrnhUY
 
 **Práctica**  
-https://htmlpen.net
+[https://htmlpen.net](https://codepen.io/Marshjek/pen/KQZVBQ)
 
 ---
 
@@ -82,7 +82,7 @@ https://htmlpen.net
 - Preparación del proyecto final.
 
 **Recurso audiovisual**  
-Video: https://youtu.be/link5
+Video: [https://youtu.be/link5](https://codepen.io/Marshjek/pen/KQZVBQ)
 
 **Proyecto final**  
 https://htmlpen.net
@@ -95,11 +95,11 @@ Las siguientes actividades están vinculadas con cada sección del curso. Todas 
 
 | Sesión | Actividad | Acceso |
 |--------|-----------|--------|
-| 1 | Introducción al entorno web | https://codepen.io/Marshjek/pen/KQZVBQ |
-| 2 | Plantilla HTML base | https://codepen.io/Marshjek/pen/KQZVBQ |
-| 3 | Manejo de imágenes y enlaces | https://codepen.io/Marshjek/pen/KQZVBQ |
-| 4 | Aplicación de estilos CSS | https://codepen.io/Marshjek/pen/KQZVBQ |
-| 5 | Desarrollo del proyecto final | https://codepen.io/Marshjek/pen/KQZVBQ |
+| 1 | Introducción al entorno web | [https://htmlpen.net](https://codepen.io/Marshjek/pen/KQZVBQ) |
+| 2 | Plantilla HTML base | [https://htmlpen.net](https://codepen.io/Marshjek/pen/KQZVBQ) |
+| 3 | Manejo de imágenes y enlaces | [https://htmlpen.net](https://codepen.io/Marshjek/pen/KQZVBQ) |
+| 4 | Aplicación de estilos CSS | [https://htmlpen.net](https://codepen.io/Marshjek/pen/KQZVBQ) |
+| 5 | Desarrollo del proyecto final | [https://htmlpen.net](https://codepen.io/Marshjek/pen/KQZVBQ) |
 
 ---
 
