@@ -71,7 +71,7 @@ Se explica la estructura básica de un archivo HTML, el significado de `<!DOCTYP
 - Video: https://youtu.be/0MQ6oBm2TCA
 
 **Entorno de práctica:**  
-- CodePen base: https://codepen.io/Marshjek/pen/KQZVBQ
+- CodePen base: https://codepen.io/uszhiyts-the-looper/pen/NPNbLqW
 
 **Ejercicio principal:**  
 
@@ -105,7 +105,7 @@ Se trabaja el uso de atributos como `src`, `href` y `alt`.
 - Video: 
 
 **Entorno de práctica:**  
-- CodePen base: https://codepen.io/Marshjek/pen/KQZVBQ
+- CodePen base: 
 
 **Ejercicio principal:**
 
@@ -136,7 +136,7 @@ Se introduce **CSS** para dar estilo a las páginas. Se explica la sintaxis bás
 - Video: https://youtu.be/gBnFrPrnhUY
 
 **Entorno de práctica:**  
-- CodePen base: https://codepen.io/Marshjek/pen/KQZVBQ
+- CodePen base: https://codepen.io/uszhiyts-the-looper/pen/ZYWBMBK
 
 **Ejercicio principal:**
 
@@ -167,7 +167,7 @@ Se combinan todos los conceptos vistos (HTML + CSS) para construir una página s
 - Video: 
 
 **Entorno de práctica:**  
-- CodePen base: https://codepen.io/Marshjek/pen/KQZVBQ
+- CodePen base: 
 
 **Ejercicio principal:**
 
