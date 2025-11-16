@@ -167,7 +167,7 @@ Se combinan todos los conceptos vistos (HTML + CSS) para construir una página s
 - Video: https://www.youtube.com/watch?v=Fnr7sNGEAp0
 
 **Entorno de práctica:**  
-- CodePen base: 
+- CodePen base: https://codepen.io/uszhiyts-the-looper/pen/VYamJGy
 
 **Ejercicio principal:**
 
