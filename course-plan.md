@@ -218,9 +218,12 @@ Puede utilizarse como evaluación formativa al final del curso, para verificar q
 **Curso:** 1ASI0730 – Aplicaciones Web  
 **NRC:** 7452
 
-**Nombre del equipo:** 
-**Líder del equipo:**
+**Nombre del equipo:** DaL Company
+
+**Líder del equipo:** Cárdenas Huaman, Mathias Andree 
+
 **Equipo responsable**
+
 - Avalos Córdova, Diego Andrés  
 - Cárdenas Huaman, Mathias Andree 
 - Florez Shimabukuro, Fátima Belén
