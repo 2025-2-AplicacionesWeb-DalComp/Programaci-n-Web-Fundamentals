@@ -1,12 +1,11 @@
 ## 🎬 Guion y Estructura: "Sesión 5: Tu Primera Página Web" (13 Minutos)
 
-Este guion está dividido en segmentos con tiempos aproximados para ayudarte a mantener el ritmo.
 
 ### 1. Introducción y Bienvenida (0:00 - 1:30)
 
 **(Música de intro animada y luego baja a fondo)**
 
-**Tú (Presentador):**
+**Tú :**
 > "¡Hola a todos y bienvenidos a la última sesión de nuestro curso de introducción a la programación web! Yo soy [Tu Nombre] y estoy súper emocionado por lo que vamos a construir hoy."
 
 **(Aparece Diapositiva: "Sesión 5 - MI PRIMERA PÁGINA WEB")**
