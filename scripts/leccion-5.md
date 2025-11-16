@@ -24,7 +24,7 @@
 
 **(Muestra en pantalla ejemplos de propiedades CSS como `color` y `font-size`)**
 
-### 3. El Proyecto de Hoy (3:00 - 5:30)
+### 3. El Proyecto de Hoy 
 
 **Tú:**
 > "Nuestro objetivo de hoy es simple pero poderoso."
@@ -41,7 +41,7 @@
 3.  **(Aparece Diapositiva: "Enlazando CSS")** "Después, conectaremos los dos. Usaremos la etiqueta `<link>` dentro del `<head>` de nuestro HTML. ¡Este paso es clave! Si no los conectamos, los estilos no se aplicarán."
 4.  **(Aparece Diapositiva: "Agregando estilo")** "Finalmente, empezaremos a escribir en nuestro CSS para personalizar la página, tal como vemos en este ejemplo."
 
-### 4. ¡Manos al Código! (Demostración en Vivo) (5:30 - 11:30)
+### 4. ¡Manos al Código! (Demostración en Vivo) 
 
 **Tú:**
 > "¡Suficiente charla! ¡Vamos a programar! Abran su editor de código, ¡empezamos!"
@@ -85,8 +85,7 @@
 **Tú:**
 > "¡Y miren eso! En solo unos minutos, creamos una página web con estructura y estilo. Se ve limpia, ¡y todo lo hicimos nosotros!"
 
-### 5. Desafío y Cierre (11:30 - 13:00)
-
+### 5. Desafío y Cierre 
 **(Regresar a la última diapositiva)**
 
 **Tú:**
