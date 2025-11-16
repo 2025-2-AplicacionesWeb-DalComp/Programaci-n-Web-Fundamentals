@@ -1,139 +1,69 @@
-# Lección 4 – Introducción a CSS  
+# Introducción a CSS – Lección 4  
 Curso: Programación Web Fundamentals
 
----
+# Introducción
 
-## 1. ¿Qué es CSS?
+¡Hola a todos! Bienvenidos a la Lección 4 de nuestro curso.  
+Hasta ahora hemos trabajado bastante con HTML, que nos permite crear la estructura de una página web.  
+Pero hoy vamos a ver algo que realmente cambia todo: **el diseño**.
 
-CSS significa *Cascading Style Sheets* y es el lenguaje que permite darle estilo a una página web.  
-Mientras que HTML define la **estructura** del contenido, CSS define su **aspecto visual**.
+En esta sesión vamos a aprender **qué es CSS** y cómo podemos usarlo para transformar una página básica en algo visualmente mucho más atractivo.  
+Vamos a trabajar directamente desde **HTML Pen**, así que podrán ver en tiempo real cómo cada cambio en el código afecta el diseño.
 
-En esta lección veremos:
-
-- Qué es CSS y para qué sirve.  
-- Cómo usarlo en HTML Pen.  
-- Cómo funciona la sintaxis básica.  
-- Cómo aplicar colores, tamaños, bordes, márgenes y tipografías.  
-- Cómo usar clases e IDs.  
-- Qué son los selectores y cómo personalizarlos.  
-- Cómo colocar elementos uno al lado del otro con `display: inline-block`.
+Si HTML es la estructura… CSS es el estilo, la parte artística, la parte visual.  
+Y créanme, esto hace que programar sea muchísimo más divertido.
 
 ---
 
-## 2. Cómo conectar CSS con HTML
+# Objetivo
 
-En HTMLPen tenemos dos paneles: uno para HTML y otro para CSS.  
-Sin embargo, también es posible conectar un archivo CSS externo con HTML usando:
+El objetivo de esta clase es que puedas entender:
 
-##html##
+- Qué es CSS y para qué sirve  
+- Cómo usar el panel de CSS en HTML Pen  
+- Cómo funciona la sintaxis básica de CSS  
+- Cómo aplicar colores, tamaños, bordes, márgenes y tipografías  
+- Qué son las clases y los IDs  
+- Cómo seleccionar elementos correctamente  
+- Y finalmente cómo colocar elementos uno al lado del otro con **display: inline-block**
+
+Con esto vas a tener una base sólida para crear tus primeros diseños web.
+
+---
+
+# ¿Qué es CSS?
+
+CSS significa *Cascading Style Sheets*, o “Hojas de Estilo en Cascada”.  
+Mientras que HTML nos permite crear títulos, párrafos, imágenes y enlaces, CSS se encarga de:
+
+- los colores  
+- las fuentes  
+- los tamaños  
+- los bordes  
+- los espacios  
+- el fondo  
+- e incluso la posición de cada elemento
+
+Podríamos decir que si una página web fuera una persona:
+
+- HTML sería el **esqueleto**  
+- CSS sería la **ropa, los colores y el estilo**
+
+Sin CSS, todos los sitios se verían iguales y bastante aburridos.  
+Así que hoy aprenderás a personalizar completamente tus páginas.
+
+---
+
+# ¿Cómo usar CSS en HTML Pen?
+
+En HTML Pen tenemos dos paneles importantes:
+
+- **HTML:** donde va la estructura  
+- **CSS:** donde va el diseño
+
+Todo lo que sea apariencia lo escribimos en el panel de CSS.
+
+Si estuviéramos en un proyecto real, conectaríamos un archivo CSS así:
+
+```html
 <link rel="stylesheet" href="style.css">
-
-O escribir CSS dentro del mismo archivo HTML:
-
-<style>
-    h1 {
-        color: red;
-    }
-</style>
-
-CSS funciona con esta estructura:
-
-selector {
-    propiedad: valor;
-}
-
-
-Ejemplo básico:
-
-body {
-    background-color: lightblue;
-}
-
----
-
-Colores por nombre:
-h1 {
-    color: blue;
-}
-
-Colores hexadecimales:
-p {
-    color: #ff6600;
-}
-
-Formato RGB:
-div {
-    background-color: rgb(240, 240, 240);
-}
-
----
-
-Cambiar tipografía:
-body {
-    font-family: Arial, sans-serif;
-}
-
-Cambiar tamaño de texto:
-h1 {
-    font-size: 32px;
-}
-
-Alinear texto:
-p {
-    text-align: center;
-}
-
-Bordes:
-div {
-    border: 2px solid black;
-}
-
-Márgenes:
-h2 {
-    margin-top: 20px;
-}
-
-Espaciado interno (padding):
-.container {
-    padding: 15px;
-}
-
----
-
-Clases (se usan con un punto "."):
-.titulo {
-    color: purple;
-    font-size: 30px;
-}
-
-<h1 class="titulo">Bienvenido</h1>
-
-IDs (se usan con "#"):
-#principal {
-    background-color: yellow;
-}
-
-<div id="principal">Contenido principal</div>
-
---- 
-
-Selector por elemento:
-p {
-    color: green;
-}
-
-Selector por clase:
-.card {
-    background-color: white;
-    padding: 10px;
-}
-
-Selector por ID:
-#caja {
-    border-radius: 10px;
-}
-
-Selector múltiple:
-h1, h2, h3 {
-    color: navy;
-}
