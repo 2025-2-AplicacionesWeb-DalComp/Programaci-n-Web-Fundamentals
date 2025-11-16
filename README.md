@@ -23,7 +23,7 @@ La capacitación está orientada a estudiantes sin experiencia previa y se desar
 - Reconocer cómo el navegador interpreta un documento.
 
 **Recurso audiovisual**  
-Video: https://youtu.be/link1  
+Video: https://youtu.be/06TaPoQSI7U
 
 **Práctica asociada**  
 Editor: [https://htmlpen.net](https://codepen.io/Marshjek/pen/KQZVBQ)
@@ -116,7 +116,7 @@ Las siguientes informaciones están vinculadas con cada sección del curso:
 **Equipo responsable**
 - Avalos Córdova, Diego Andrés  
 - Cárdenas Huaman, Mathias Andree 
-- [Nombre 3]  
+- Florez Shimabukuro, Fátima Belén
 - [Nombre 4]
 
 **Fecha de presentación:** 16/11/2025
