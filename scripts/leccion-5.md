@@ -1,9 +1,8 @@
-## 🎬 Guion y Estructura: "Sesión 5: Tu Primera Página Web" (13 Minutos)
+## 🎬 Guion y Estructura: "Sesión 5: Tu Primera Página Web"
 
 
-### 1. Introducción y Bienvenida (0:00 - 1:30)
+### 1. Introducción y Bienvenida 
 
-**(Música de intro animada y luego baja a fondo)**
 
 **Tú :**
 > "¡Hola a todos y bienvenidos a la última sesión de nuestro curso de introducción a la programación web! Yo soy [Tu Nombre] y estoy súper emocionado por lo que vamos a construir hoy."
@@ -13,7 +12,7 @@
 **Tú:**
 > "Hoy es el día. Vamos a tomar todo lo que hemos aprendido sobre HTML y CSS para hacer algo increíble: nuestra primera página web completa. ¿Están listos? ¡Vamos!"
 
-### 2. Recapitulación Rápida (1:30 - 3:00)
+### 2. Recapitulación Rápida 
 
 **Tú:**
 > "Recordemos súper rápido lo que vimos. Vimos **HTML**, ¿se acuerdan? HTML es como el **esqueleto** de nuestra página. Usamos etiquetas como `<h1>` para títulos, `<p>` para párrafos, e `<img>` para imágenes. Es el contenido, la estructura."
@@ -35,7 +34,7 @@
 **Tú:**
 > "Vamos a **combinar HTML y CSS para crear una página completa y funcional**. Y para hacerlo, seguiremos estos pasos:"
 
-**(Transición rápida entre las diapositivas mientras hablas)**
+**(Transición rápida entre las diapositivas)**
 
 1.  **(Aparece Diapositiva: "Estructura de un documento HTML")** "Primero, crearemos nuestro archivo `index.html` y pondremos la estructura básica. Esta es nuestra plantilla."
 2.  **(Aparece Diapositiva: "Archivo CSS")** "Luego, crearemos un archivo `style.css`. Aquí es donde vivirá toda nuestra magia, todos nuestros estilos."
@@ -88,7 +87,7 @@
 
 ### 5. Desafío y Cierre (11:30 - 13:00)
 
-**(Regresas a la cámara o a la última diapositiva)**
+**(Regresar a la última diapositiva)**
 
 **Tú:**
 > "¡Felicidades, han creado su primera página web! Vieron qué fácil es combinar el esqueleto (HTML) con la ropa (CSS)."
